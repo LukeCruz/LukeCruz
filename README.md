@@ -1,16 +1,32 @@
-### Hi there 👋
+Hi there 👋, I am Luke Cruz!
 
-<!--
-**LukeCruz/LukeCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkdin](https://marcas-logos.net/linkedin-logo/)](https://www.linkedin.com/in/lucas-cruz-02531734e "Linkedin")
+[![Instagram](https://marcas-logos.net/linkedin-logo/)](https://www.instagram.com/lukecruzof/ "Instagram")
+[![More](https://marcas-logos.net/linkedin-logo/)](https://linkfly.to/lukecr "More")
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>👦 About Me</h1>
+
+
+<h3>🎓 I'm twenty six years old and i specialize in hardware and software engineering.</h3>
+<h3>🔨 I'm a full stack developer.</h3>
+<h3>💗 I love hackathons for bringing my ideas to life.</h3>
+<h3>🏆 I have won Ocean DEC, Cosmos Hackatom India, HackTheHorizon by Harmony and several other hackathons.</h3>
+<h3>🚀 When free, you will find me  viewing the CoinMarketCap.</h3>
+<h3>⚡ Fun fact : I love animes</h3>
+
+<h1>🧰 My Toolkit</h1>
+
+
+![JavaScript](URL da imagem)
+![React](URL da imagem)
+![React Native](URL da imagem)
+![Redux](URL da imagem)
+
+![NoSQL](URL da imagem)
+![MongoDb](URL da imagem)
+![VsCode](URL da imagem)
+![nodeJS](URL da imagem)
+
+![Ethereum](URL da imagem)
+
