@@ -2,7 +2,7 @@ Hi there 👋, I am Luke Cruz!
 
 
 <a href="https://linkfly.to/lukecr"><img style="padding=5px;" src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
-<a href="https://www.instagram.com/lukecruzof/"><img style="padding=5px;" src="./images/Instagram-logo.jpeg" alt="Instagram" width="100" height="100"></a>
+<a href="https://www.instagram.com/lukecruzof/"><img style="padding=5px;" src="./images/Instagram-logo.jpeg" alt="Instagram" width="70" height="70"></a>
 <a href=""><img style="padding=5px;" src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
 
 
@@ -22,7 +22,7 @@ Hi there 👋, I am Luke Cruz!
 <img style="display=block;" src="./images/js-logo.png" alt="js" width="150" height="150"/>
 <img src="./images/react-logo.png" alt="react" width="150" height="100"/>
 <img src="/images/MySQL-logo.png" alt="SQL" width="150" height="150"/><br/>
-<img src="./images/mongo-logo.png" alt="mongodb" width="150" height="100"/>
+<img src="./images/mogo-logo.png" alt="mongodb" width="150" height="100"/>
 <img src="./images/vscode-logo.png" alt="vscode" width="150" height="150"/>
 <img src="/images/node-logo.png" alt="nodejs" width="200" height="130"/>
 <img src="./images/ethereum-logo.png" alt="ethereum" width="150" height="200"/>
