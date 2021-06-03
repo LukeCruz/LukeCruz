@@ -7,7 +7,7 @@ Hi there 👋, I am Luke Cruz!
 
 
 
-<h1 style="color="red"">👦 About Me</h1>
+<h1 style="color=red;">👦 About Me</h1>
 
 
 <h3>🎓 I'm twenty six years old and i specialize in hardware and software engineering.</h3>
@@ -19,12 +19,12 @@ Hi there 👋, I am Luke Cruz!
 
 <h1>🧰 My Toolkit</h1>
 
-<img style="display=block;" src="./images/js-logo.png" alt="js" width="200" height="150"/>
+<img style="display=block;" src="./images/js-logo.png" alt="js" width="150" height="150"/>
 <img src="./images/react-logo.png" alt="react" width="150" height="100"/>
 <img src="/images/MySQL-logo.png" alt="SQL" width="150" height="150"/><br/>
 <img src="./images/mongo-logo.png" alt="mongodb" width="150" height="100"/>
 <img src="./images/vscode-logo.png" alt="vscode" width="150" height="150"/>
-<img src="/images/node-logo.png" alt="nodejs" width="200" height="150"/>
+<img src="/images/node-logo.png" alt="nodejs" width="200" height="130"/>
 <img src="./images/ethereum-logo.png" alt="ethereum" width="150" height="200"/>
 
 
