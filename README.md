@@ -25,4 +25,3 @@ Hi there 👋, I am Luke Cruz!
 ![VsCode](./images/vscode-logo.png)
 ![nodeJS](./images/node-logo.png)
 ![Ethereum](./images/ethereum-logo.png)
-
