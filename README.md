@@ -18,7 +18,7 @@ Hi there 👋, I am Luke Cruz!
 <h1>🧰 My Toolkit</h1>
 
 
-![JavaScript](./images/js-logo.png = 200x200)
+![JavaScript](./images/js-logo.png =200x200)
 ![React](./images/react-logo.png = 150x150)
 ![NoSQL](./images/MySQL-logo.png)<br/>
 ![MongoDb](./images/mongo-logo.png)
