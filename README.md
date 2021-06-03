@@ -26,14 +26,3 @@ Hi there 👋, I am Luke Cruz!
 <img src="./images/vscode-logo.png" alt="vscode" width="150" height="140"/>
 <img src="/images/node-logo.png" alt="nodejs" width="200" height="110"/>
 <img src="./images/ethereum-logo.png" alt="ethereum" width="140" height="200"/>
-
-<style>
-.image {
-  padding : 40px;
-  }
-.toolkit{
-  padding: 5px; 
-  display: flex;
-  flex-direction: column;
-}
-  </style>
