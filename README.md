@@ -1,13 +1,13 @@
 Hi there 👋, I am Luke Cruz!
 
 
-<a href="https://linkfly.to/lukecr"><img padding=20px src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
-<a href="https://www.instagram.com/lukecruzof/"><img padding=20px src="./images/Instagram-logo.jpeg" alt="Instagram" width="70" height="70"></a>
-<a href=""><img style="padding=500px;" src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
+<a href="https://linkfly.to/lukecr"><img class="image" padding=20px src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
+<a href="https://www.instagram.com/lukecruzof/"><img class="image" padding=20px src="./images/Instagram-logo.jpeg" alt="Instagram" width="70" height="70"></a>
+<a href="https://www.linkedin.com/in/lucas-cruz-02531734"><img class="image" src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
 
 
 
-<h1 style="color=red;">👦 About Me</h1>
+<h1 id=title >👦 About Me</h1>
 
 
 <h3>🎓 I'm twenty six years old and i specialize in hardware and software engineering.</h3>
@@ -27,3 +27,9 @@ Hi there 👋, I am Luke Cruz!
 <img src="/images/node-logo.png" alt="nodejs" width="200" height="110"/>
 <img src="./images/ethereum-logo.png" alt="ethereum" width="140" height="200"/>
 
+<style>
+  #image {
+  padding : 40px;
+  }
+  
+  </style?
