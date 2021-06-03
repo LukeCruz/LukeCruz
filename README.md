@@ -1,9 +1,9 @@
 Hi there 👋, I am Luke Cruz!
 
 
-<a href="https://linkfly.to/lukecr"><img src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
-<a href="https://www.instagram.com/lukecruzof/"><img src="./images/Instagram-logo.jpeg" alt="Instagram" width="150" height="100"></a>
-<a href=""><img src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
+<a href="https://linkfly.to/lukecr"><img style="padding=5px;" src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
+<a href="https://www.instagram.com/lukecruzof/"><img style="padding=5px;" src="./images/Instagram-logo.jpeg" alt="Instagram" width="100" height="100"></a>
+<a href=""><img style="padding=5px;" src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
 
 
 
