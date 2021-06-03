@@ -19,7 +19,7 @@ Hi there 👋, I am Luke Cruz!
 
 <h1>🧰 My Toolkit</h1>
 
-<img src="./images/js-logo.png" alt="js" width="150" height="150"/>
+<img class="toolkit" src="./images/js-logo.png" alt="js" width="150" height="150"/>
 <img src="./images/react-logo.png" alt="react" width="150" height="100"/>
 <img src="/images/MySQL-logo.png" alt="SQL" width="150" height="150"/><br/>
 <img src="./images/mogo-logo.png" alt="mongodb" width="150" height="70"/>
@@ -28,8 +28,12 @@ Hi there 👋, I am Luke Cruz!
 <img src="./images/ethereum-logo.png" alt="ethereum" width="140" height="200"/>
 
 <style>
-  #image {
+.image {
   padding : 40px;
   }
-  
-  </style?
+.toolkit{
+  padding: 5px; 
+  display: flex;
+  flex-direction: column;
+}
+  </style>
