@@ -1,11 +1,13 @@
 Hi there 👋, I am Luke Cruz!
 
-[![Linkdin]()](./images/Linkedin-Logo.png "Linkedin")
-[![Instagram]()](./images/Instagram-Logo.png "Instagram")
-[![More](https://linkfly.to/lukecr)](./images/luke-logo "More")
+
+<a href="https://linkfly.to/lukecr"><img src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
+<a href=""><img src="./images/Instagram-Logo.png" alt="Instagram" width="150" height="100"></a>
+<a href=""><img src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
 
 
-<h1>👦 About Me</h1>
+
+<h1 style="color=red;">👦 About Me</h1>
 
 
 <h3>🎓 I'm twenty six years old and i specialize in hardware and software engineering.</h3>
@@ -17,7 +19,15 @@ Hi there 👋, I am Luke Cruz!
 
 <h1>🧰 My Toolkit</h1>
 
+<img style="display=block;" src="./images/js-logo.png" alt="js" width="150" height="150"/>
+<img src="./images/react-logo.png" alt="react" width="150" height="100"/>
+<img src="/images/MySQL-logo.png" alt="SQL" width="150" height="150"/><br/>
+<img src="./images/mongo-logo.png" alt="mongodb" width="150" height="100"/>
+<img src="./images/vscode-logo.png" alt="vscode" width="150" height="150"/>
+<img src="/images/node-logo.png" alt="nodejs" width="200" height="130"/>
+<img src="./images/ethereum-logo.png" alt="ethereum" width="150" height="200"/>
 
+<<<<<<< HEAD
 ![JavaScript](./images/js-logo.png)
 ![React](./images/react-logo.png)
 ![NoSQL](./images/MySQL-logo.png)<br/>
@@ -25,3 +35,6 @@ Hi there 👋, I am Luke Cruz!
 ![VsCode](./images/vscode-logo.png)
 ![nodeJS](./images/node-logo.png)
 ![Ethereum](./images/ethereum-logo.png)
+=======
+
+>>>>>>> ad47ea50c60c85e88ce6c5a5695b39d5001ba696
