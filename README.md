@@ -2,7 +2,7 @@ Hi there 👋, I am Luke Cruz!
 
 
 <a href="https://linkfly.to/lukecr"><img src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
-<a href=""><img src="./images/Instagram-Logo.png" alt="Instagram" width="150" height="100"></a>
+<a href=""><img src="./images/Instagram-Logo.jpeg" alt="Instagram" width="150" height="100"></a>
 <a href=""><img src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
 
 
@@ -27,14 +27,3 @@ Hi there 👋, I am Luke Cruz!
 <img src="/images/node-logo.png" alt="nodejs" width="200" height="130"/>
 <img src="./images/ethereum-logo.png" alt="ethereum" width="150" height="200"/>
 
-<<<<<<< HEAD
-![JavaScript](./images/js-logo.png)
-![React](./images/react-logo.png)
-![NoSQL](./images/MySQL-logo.png)<br/>
-![MongoDb](./images/mongo-logo.png)
-![VsCode](./images/vscode-logo.png)
-![nodeJS](./images/node-logo.png)
-![Ethereum](./images/ethereum-logo.png)
-=======
-
->>>>>>> ad47ea50c60c85e88ce6c5a5695b39d5001ba696
