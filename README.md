@@ -2,7 +2,12 @@ Hi there 👋, I am Luke Cruz!
 
 [![Linkdin]()](./images/Linkedin-Logo.png "Linkedin")
 [![Instagram]()](./images/Instagram-Logo.png "Instagram")
-[![More](https://linkfly.to/lukecr)](./images/luke-logo "More")
+
+[![More](./images/luke-logo.png)](https://linkfly.to/lukecr "More")
+<a href="https://linkfly.to/lukecr"><img src="./images/luke-logo.png" alt="More" width="150" height="100"></a>
+<a href=""><img src="./images/Instagram-Logo.png" alt="Instagram" width="150" height="100"></a>
+<a href=""><img src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
+
 
 
 <h1>👦 About Me</h1>
@@ -17,13 +22,12 @@ Hi there 👋, I am Luke Cruz!
 
 <h1>🧰 My Toolkit</h1>
 
-<img src="./images/js-logo.png" alt="js" width="200" height="200"/>
+<img src="./images/js-logo.png" alt="js" width="150" height="150"/>
+<img src="./images/react-logo.png" alt="react" width="150" height="150"/>
+<img src="/images/MySQL-logo.png" alt="SQL" width="150" height="150"/><br/>
+<img src="./images/mongo-logo.png" alt="mongodb" width="150" height="150"/>
+<img src="./images/vscode-logo.png" alt="vscode" width="150" height="150"/>
+<img src="/images/node-logo.png" alt="nodejs" width="150" height="150"/>
+<img src="./images/ethereum-logo.png" alt="ethereum" width="150" height="150"/>
 
-![JavaScript](./images/js-logo.png =200x200)
-![React](./images/react-logo.png = 150x150)
-![NoSQL](./images/MySQL-logo.png)<br/>
-![MongoDb](./images/mongo-logo.png)
-![VsCode](./images/vscode-logo.png)
-![nodeJS](./images/node-logo.png)
-![Ethereum](./images/ethereum-logo.png)
 
