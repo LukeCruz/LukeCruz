@@ -5,7 +5,7 @@
 - :neckbeard: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - :mortar_board: &nbsp; 🎓 I'm specialize in hardware and software engineering.
 
-- :seedling: &nbsp; Learning more about Next.js, Flutter and React Native and cloud architecture.
+- :seedling: &nbsp; Learning more about Next.js, Flutter and React Native, cloud architecture and Docker.
 - ✍️ &nbsp; As a hobby I look for news in the JS community trying to contribute in some way and play video games every now and then.
 
 <h3>:wrench: &nbsp;Tech Stack</h3>
@@ -42,7 +42,7 @@
 
   <br/>
 
-<a href="https://github.com/LukeCruz">
+<a align="center" href="https://github.com/LukeCruz">
   <img src="https://github-readme-stats.vercel.app/api?username=LukeCruz&theme=jolly&show_icons=true" alt="Informações do perfil de Luke Cruz" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeCruz&layout=compact&hide=html" alt="LukeCruz" />
@@ -53,7 +53,8 @@
 <h3>:incoming_envelope: &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/lucas-cruz-02531734/"></a>
+<a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lucas-cruz-02531734-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/lukecruzof/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lukecruzof-blue?style=flat-square&logo=instagram"></a>
 <a href="enio.cruz@yahoo.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-enio.cruz@yahoo.com.br-blue?style=flat-square&logo=yahoo"></a>
 </p>
+
