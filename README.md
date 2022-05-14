@@ -1,28 +1,59 @@
-Hi there 👋, I am Luke Cruz!
+<h2> Hey there! I'm Lucas.</h2>
 
+<h3>:notebook: &nbsp;About Me </h3>
 
-<a href="https://linkfly.to/lukecr"><img class="image" padding=20px src="./images/luke-logo.jpeg" alt="More" width="100" height="100"></a>
-<a href="https://www.instagram.com/lukecruzof/"><img class="image" padding=20px src="./images/Instagram-logo.jpeg" alt="Instagram" width="70" height="70"></a>
-<a href="https://www.linkedin.com/in/lucas-cruz-02531734"><img class="image" src="./images/Linkedin-Logo.png" alt="Linkedin" width="150" height="100"></a>
+- :neckbeard: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- :mortar_board: &nbsp; 🎓 I'm specialize in hardware and software engineering.
 
+- :seedling: &nbsp; Learning more about Next.js, Flutter and React Native and cloud architecture.
+- ✍️ &nbsp; As a hobby I look for news in the JS community trying to contribute in some way and play video games every now and then.
 
+<h3>:wrench: &nbsp;Tech Stack</h3>
 
-<h1 id=title >👦 About Me</h1>
+- :computer: &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🌐 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components&logoColor=DB7093)
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui&logoColor=0081CB)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PosgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- :Mobile: &nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=)
 
+<br/>
 
-<h3>🎓 I'm twenty six years old and i specialize in hardware and software engineering.</h3>
-<h3>🔨 I'm a full stack developer.</h3>
-<h3>💗 I love hackathons for bringing my ideas to life.</h3>
-<h3>🏆 I have won HackTheHorizon by Harmony and several other hackathons.</h3>
-<h3>🚀 When free, you will find me  viewing the CoinMarketCap.</h3>
-<h3>⚡ Fun fact : I love animes</h3>
+<h3>:memo: &nbsp;Learning More About</h3>
 
-<h1>🧰 My Toolkit</h1>
+- :book: &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
 
-<img class="toolkit" src="./images/js-logo.png" alt="js" width="150" height="150"/>
-<img src="./images/react-logo.png" alt="react" width="150" height="100"/>
-<img src="/images/MySQL-logo.png" alt="SQL" width="150" height="150"/><br/>
-<img src="./images/mogo-logo.png" alt="mongodb" width="150" height="70"/>
-<img src="./images/vscode-logo.png" alt="vscode" width="150" height="140"/>
-<img src="/images/node-logo.png" alt="nodejs" width="200" height="110"/>
-<img src="./images/ethereum-logo.png" alt="ethereum" width="140" height="200"/>
+  <br/>
+
+<a href="https://github.com/LukeCruz">
+  <img src="https://github-readme-stats.vercel.app/api?username=LukeCruzshow_icons=true" alt="Informações do perfil de Luke Cruz" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeCruz&layout=compact&hide=html" alt="LukeCruz" />
+</a>
+
+<br/>
+
+<h3>:incoming_envelope: &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="" target="_blank"><img alt="LinkedIn" src="www.google.com.br"></a>
+<a href="https://www.instagram.com/lukecruzof/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lukecruzof-blue?style=flat-square&logo=instagram"></a>
+<a href="enio.cruz@yahoo.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-enio.cruz@yahoo.com.br-blue?style=flat-square&logo=gmail"></a>
+</p>
