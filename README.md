@@ -53,8 +53,7 @@
 <h3>:incoming_envelope: &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lucas-cruz-02531734-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/lucas-cruz-02531734/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Cruz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/lukecruzof/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lukecruzof-blue?style=flat-square&logo=instagram"></a>
 <a href="enio.cruz@yahoo.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-enio.cruz@yahoo.com.br-blue?style=flat-square&logo=yahoo"></a>
 </p>
-
