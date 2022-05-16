@@ -30,13 +30,13 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- :iphone: &nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=)
+
 
 <br/>
 
 <h3>:memo: &nbsp;Learning More About</h3>
-
+- :iphone: &nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=)
 - :book: &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
 
@@ -53,7 +53,13 @@
 <h3>:incoming_envelope: &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-cruz-02531734/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Cruz-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/lukecruzof/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lukecruzof-blue?style=flat-square&logo=instagram"></a>
-<a href="enio.cruz@yahoo.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-enio.cruz@yahoo.com.br-blue?style=flat-square&logo=yahoo"></a>
+  <a href="https://www.linkedin.com/in/lucas-cruz-02531734/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Cruz-purple?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/lukecruzof/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-lukecruzof-purple?style=flat-square&logo=instagram"/>
+  </a>
+  <a href="enio.cruz@yahoo.com.br" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-enio.cruz@yahoo.com.br-purple?style=flat-square&logo=yahoo">
+  </a>
 </p>
