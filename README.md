@@ -35,10 +35,9 @@
 <br/>
 
 <h3>:memo: &nbsp;Learning More About</h3>
-- :iphone: &nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=)
-- :book: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
+
+- :iphone: &nbsp;![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=)
+- :book: &nbsp;![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
 
   <br/>
 
