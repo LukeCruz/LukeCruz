@@ -1,5 +1,17 @@
 <h2> Hey there! I'm Lucas.</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-cruz-02531734/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Cruz-purple?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/lukecruzof/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-lukecruzof-purple?style=flat-square&logo=instagram"/>
+  </a>
+  <a href="enio.cruz@yahoo.com.br" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-enio.cruz@yahoo.com.br-purple?style=flat-square&logo=yahoo">
+  </a>
+</p>
+
 <h3>:notebook: &nbsp;About Me </h3>
 
 - :neckbeard: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
