@@ -17,25 +17,33 @@
 - :neckbeard: &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - :mortar_board: &nbsp; 🎓 I'm specialize in hardware and software engineering.
 
-- :seedling: &nbsp; Learning more about Next.js, Flutter and React Native, cloud architecture and Docker.
-- ✍️ &nbsp; As a hobby I look for news in the JS community trying to contribute in some way and play video games every now and then.
+- :seedling: &nbsp; Learning more about Machine Learning, Computer Vision, IA and cloud.
+- ✍️ &nbsp; As a hobby I look for news in the PY community trying to contribute in some way and play video games every now and then.
 
 <h3>:wrench: &nbsp;Tech Stack</h3>
 
+- 🚀 &nbsp;
+-[Python] (https://img.shields.io/badge/Python-All-blue)
+-[Pandas] (https://img.shields.io/badge/Pandas-All-red)
+-[PowerBI] (https://img.shields.io/badge/PowerBI-All-yellow)
+
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PosgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+  
 - :computer: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components&logoColor=DB7093)
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui&logoColor=0081CB)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PosgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
