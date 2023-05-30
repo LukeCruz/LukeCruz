@@ -24,13 +24,13 @@
 
 - 🚀 &nbsp;
   ![Python](https://img.shields.io/badge/Python-All-blue?style=flat&logo=python)
-  ![PowerBI](https://img.shields.io/badge/PowerBI-All-yellow)
-  ![Pandas](https://img.shields.io/badge/Pandas-All-red)
+  ![PowerBI](https://img.shields.io/badge/PowerBI-All-yellow?style=flat&logo=powerbi)
+  ![Pandas](https://img.shields.io/badge/Pandas-All-red?style=flat&logo=pandas)
 
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=336791)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logo=oracle)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PosgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql&logoColor=336791)
   
