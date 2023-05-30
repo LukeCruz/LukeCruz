@@ -23,10 +23,9 @@
 <h3>:wrench: &nbsp;Tech Stack</h3>
 
 - 🚀 &nbsp;
-
-  ![Python](https://img.shields.io/badge/Python-All-blue)
-   ![PowerBI](https://img.shields.io/badge/PowerBI-All-yellow)
-     ![Pandas](https://img.shields.io/badge/Pandas-All-red)
+  ![Python](https://img.shields.io/badge/Python-All-blue?style=flat&logo=python)
+  ![PowerBI](https://img.shields.io/badge/PowerBI-All-yellow)
+  ![Pandas](https://img.shields.io/badge/Pandas-All-red)
 
 
 - 🛢 &nbsp;
