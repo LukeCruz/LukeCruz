@@ -30,7 +30,7 @@
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logo=oracle)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PosgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql&logoColor=336791)
   
