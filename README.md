@@ -25,7 +25,7 @@
 - 🚀 &nbsp;
   ![Python](https://img.shields.io/badge/Python-All-blue?style=flat&logo=python)
   ![.NET](https://img.shields.io/badge/.NET-All-red?style=flat&logo=.net)
-  ![VBA](https://img.shields.io/badge/visualbasic-All-red?style=flat&logo=visualbasicaplication)
+  ![VBA](https://img.shields.io/badge/VisualBasic-All-green?style=flat&logo=vba)
   ![PowerBI](https://img.shields.io/badge/PowerBI-All-yellow?style=flat&logo=powerbi)
   ![Pandas](https://img.shields.io/badge/Pandas-All-red?style=flat&logo=pandas)
 
